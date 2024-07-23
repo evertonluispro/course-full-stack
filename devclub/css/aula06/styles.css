@@ -1,0 +1,19 @@
+h1 {
+    color: #FF00FF;
+    font-size: 64px;
+    font-weight: lighter;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-shadow: 5px 5px 20px;
+}
+
+p {
+    color: blue;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 10px;
+    word-spacing: 40px;
+    text-align: justify;
+    text-transform: capitalize;
+}
