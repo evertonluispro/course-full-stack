@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a:active{
+    color: rede;
+}
+
+p:hover{
+    color: blue;
+}
+
+input:checked{
+    height: 100px;
+    width: 100px;
+}
